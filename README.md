@@ -24,7 +24,7 @@ Despite Bitcoin’s dominance as a digital asset, it lacks a true **social-nativ
 
 ## ✨ Key Features (Conceptual)
 
-### ✅ MVP Scope (Hackathon-ready)
+### ✅ MVP Scope
 - Post messages (like tweets) stored onchain
 - Tip others in testnet BTC using Citrea
 - Stacker Score = total tips sent/received
@@ -79,9 +79,9 @@ BitStack is made possible only because:
 
 ---
 
-## 📥 Submission (Planned for Hackathon)
+## 📥 Submission (Planned)
 
-As part of a future WaveHack or builder sprint, we plan to submit with:
+As part of a future WaveHack, we plan to submit with:
 
 - Project title & description (BitStack)
 - GitHub repo (smart contracts + frontend scaffold)
